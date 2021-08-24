@@ -1,4 +1,4 @@
-# Birthday Reminder
+# Birthday Reminder 📆🎂🎉
 This is a React.js project
 
 [Tutorial by freeCodeCamp.org](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
